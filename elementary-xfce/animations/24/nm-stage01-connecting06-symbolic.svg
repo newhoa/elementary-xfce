@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   version="1.1"
+   id="svg19641"
+   sodipodi:docname="nm-stage01-connecting06-symbolic.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview19643"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="50.25"
+     inkscape:cx="5.2039801"
+     inkscape:cy="7.9402985"
+     inkscape:window-width="1920"
+     inkscape:window-height="1019"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg19641" />
+  <defs
+     id="defs19635">
+    <linearGradient
+       id="linearGradient3605"
+       x1="7"
+       x2="19"
+       y1="12"
+       y2="5"
+       gradientTransform="matrix(0.23064,0.97304,0.97304,-0.23064,-2.4450003,3.0907982)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#555761"
+         stop-opacity=".5"
+         id="stop19625" />
+      <stop
+         offset="1"
+         stop-color="#555761"
+         stop-opacity="0"
+         id="stop19627" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3611"
+       x1="7"
+       x2="17"
+       y1="12"
+       y2="12"
+       gradientTransform="matrix(-0.23064,-0.97304,-0.97304,0.23064,26.4436,20.908898)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#555761"
+         id="stop19630" />
+      <stop
+         offset="1"
+         stop-color="#555761"
+         stop-opacity=".5"
+         id="stop19632" />
+    </linearGradient>
+  </defs>
+  <path
+     fill="url(#linearGradient3611)"
+     d="m 13.6146,18.810898 c 3.7618,-0.89167 6.0884,-4.664 5.1968,-8.4258 -0.89167,-3.7617998 -4.664,-6.0883998 -8.4258,-5.1967998 l 0.46129,1.9461 c 2.6869,-0.6369 5.3815,1.025 6.0184,3.7119998 0.6369,2.6869 -1.025,5.3815 -3.712,6.0184 -1.265,0.29984 -0.80366,2.2459 0.46129,1.9461 z"
+     id="path19637"
+     style="fill:url(#linearGradient3611)" />
+  <path
+     fill="url(#linearGradient3605)"
+     d="m 13.6146,18.810898 -0.462,-1.946 c -2.687,0.637 -5.3813003,-1.025 -6.0182003,-3.712 -0.6369,-2.687 1.025,-5.3812998 3.7122003,-6.0181998 l -0.462,-1.9461 c -3.7613003,0.8917 -6.0879003,4.664 -5.1963003,8.4262998 0.8917,3.761 4.664,6.088 8.4263003,5.196 z"
+     id="path19639"
+     style="opacity:0.5;fill:url(#linearGradient3605)" />
+</svg>
