@@ -5,7 +5,7 @@
    viewBox="0 0 16 16"
    width="16"
    id="svg97"
-   sodipodi:docname="application-x-ms-dos-executable.svg"
+   sodipodi:docname="application-vnd.android.package-archive.svg"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -24,9 +24,9 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      showgrid="false"
-     inkscape:zoom="30.140427"
-     inkscape:cx="3.9979527"
-     inkscape:cy="12.176337"
+     inkscape:zoom="60.280853"
+     inkscape:cx="7.4899405"
+     inkscape:cy="12.109981"
      inkscape:window-width="1278"
      inkscape:window-height="1005"
      inkscape:window-x="302"
@@ -289,32 +289,29 @@
      id="rect5505-21-1-5-0-6-5-1-2-5-1-7-7"
      style="color:#000000;font-variation-settings:normal;display:inline;overflow:visible;visibility:visible;opacity:0.5;vector-effect:none;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:url(#linearGradient121764);stroke-width:0.999995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;marker:none;enable-background:accumulate;stop-color:#000000"
      d="M 13.37325,4.6366994 12.821287,3.4402295 C 12.675822,3.1244775 12.516893,2.7768804 12.35926,2.6258263 12.201625,2.4747724 12.050553,2.499998 11.739173,2.499998 H 4.2607314 c -0.3117911,0 -0.4595937,-1.781e-4 -0.6177692,0.1501498 C 3.4847868,2.8004742 3.3203687,3.1211625 3.1798637,3.4373089 v 4.273e-4 L 2.6221772,4.6366994" />
-  <rect
-     style="fill:#64baff;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke;stop-color:#000000"
-     id="rect31746"
-     width="3"
-     height="3"
-     x="4"
-     y="5" />
-  <rect
-     style="fill:#64baff;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke;stop-color:#000000"
-     id="rect31748"
-     width="3"
-     height="3"
-     x="9"
-     y="5" />
-  <rect
-     style="fill:#64baff;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke;stop-color:#000000"
-     id="rect31750"
-     width="3"
-     height="3"
-     x="4"
-     y="10" />
-  <rect
-     style="fill:#64baff;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke;stop-color:#000000"
-     id="rect31752"
-     width="3"
-     height="3"
-     x="9"
-     y="10" />
+  <path
+     class="cls-1"
+     d="m 10.301275,10.60084 a 0.41643778,0.40891555 0 1 1 0.41636,-0.40899 0.41698701,0.40945492 0 0 1 -0.41636,0.40899 m -4.60255,0 A 0.41643778,0.40891555 0 1 1 6.1150828,10.19185 0.41690855,0.40937788 0 0 1 5.698725,10.60084 m 4.751878,-2.4629693 0.83217,-1.4152918 A 0.17316667,0.17003873 0 1 0 10.98294,6.5523694 L 10.140255,7.9855386 C 9.495865,7.6967477 8.7721405,7.535939 7.9999203,7.535939 c -0.7722175,0 -1.495862,0.16104 -2.1402553,0.4495996 L 5.01706,6.5523694 A 0.17314167,0.17001417 0 1 0 4.717148,6.7223451 l 0.83225,1.4155256 C 4.120388,8.9010716 3.142972,10.321605 3,11.999953 H 13 C 12.856871,10.321605 11.879533,8.9010716 10.450604,8.1378707"
+     id="path1082"
+     style="fill:#76c526;fill-opacity:1;stroke-width:1.14286" />
+  <circle
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.24714;stroke-opacity:0.5"
+     id="path2767"
+     cx="5.6750002"
+     cy="10.25"
+     r="0.5" />
+  <circle
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.24714;stroke-opacity:0.5"
+     id="circle2959"
+     cx="10.325"
+     cy="10.25"
+     r="0.5" />
+  <path
+     style="fill:none;fill-opacity:1;stroke:#76c526;stroke-width:0.999999px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 4.8749995,6.6499995 5.9480008,8.4749181"
+     id="path4938" />
+  <path
+     style="fill:none;fill-opacity:1;stroke:#76c526;stroke-width:0.999999px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 11.125,6.6499995 10.051999,8.4749181"
+     id="path27263" />
 </svg>
