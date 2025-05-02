@@ -24,13 +24,13 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="54.9375"
-     inkscape:cx="27.276451"
-     inkscape:cy="45.542662"
+     inkscape:zoom="38.846679"
+     inkscape:cx="14.956233"
+     inkscape:cy="40.93014"
      inkscape:window-width="1420"
      inkscape:window-height="885"
      inkscape:window-x="496"
-     inkscape:window-y="58"
+     inkscape:window-y="124"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg4161"
      showguides="true" />
@@ -213,6 +213,10 @@
      rx="6"
      height="55"
      width="55" />
+  <path
+     id="rect423"
+     style="fill:#000000;fill-opacity:0.3019608;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-dasharray:none;paint-order:markers fill stroke;stop-color:#000000"
+     d="M 15 16 L 15 26 L 17 26 L 17 16 L 15 16 z M 18 16 L 18 26 L 20 26 L 20 16 L 18 16 z M 21 16 L 21 26 L 23 26 L 23 16 L 21 16 z M 24 16 L 24 26 L 26 26 L 26 16 L 24 16 z M 38 16 L 38 26 L 40 26 L 40 16 L 38 16 z M 41 16 L 41 26 L 43 26 L 43 16 L 41 16 z M 44 16 L 44 26 L 46 26 L 46 16 L 44 16 z M 47 16 L 47 26 L 49 26 L 49 16 L 47 16 z M 15 27 L 15 37 L 17 37 L 17 27 L 15 27 z M 18 27 L 18 37 L 20 37 L 20 27 L 18 27 z M 21 27 L 21 37 L 23 37 L 23 27 L 21 27 z M 24 27 L 24 37 L 26 37 L 26 27 L 24 27 z M 27 27 L 27 37 L 29 37 L 29 27 L 27 27 z M 30 27 L 30 37 L 34 37 L 34 27 L 30 27 z M 35 27 L 35 37 L 37 37 L 37 27 L 35 27 z M 38 27 L 38 37 L 40 37 L 40 27 L 38 27 z M 41 27 L 41 37 L 43 37 L 43 27 L 41 27 z M 44 27 L 44 37 L 46 37 L 46 27 L 44 27 z M 47 27 L 47 37 L 49 37 L 49 27 L 47 27 z M 15 38 L 15 48 L 17 48 L 17 38 L 15 38 z M 18 38 L 18 48 L 20 48 L 20 38 L 18 38 z M 21 38 L 21 48 L 23 48 L 23 38 L 21 38 z M 24 38 L 24 48 L 26 48 L 26 38 L 24 38 z M 38 38 L 38 48 L 40 48 L 40 38 L 38 38 z M 41 38 L 41 48 L 43 48 L 43 38 L 41 38 z M 44 38 L 44 48 L 46 48 L 46 38 L 44 38 z M 47 38 L 47 48 L 49 48 L 49 38 L 47 38 z " />
   <rect
      style="fill:#9bdb4d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-dasharray:none;paint-order:markers fill stroke;stop-color:#000000"
      id="rect27403"

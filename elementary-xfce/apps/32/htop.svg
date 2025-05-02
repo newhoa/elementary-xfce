@@ -25,12 +25,12 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="19.423339"
-     inkscape:cx="6.6672368"
-     inkscape:cy="14.441389"
+     inkscape:cx="17.350261"
+     inkscape:cy="12.742402"
      inkscape:window-width="1432"
      inkscape:window-height="862"
-     inkscape:window-x="910"
-     inkscape:window-y="71"
+     inkscape:window-x="899"
+     inkscape:window-y="168"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg4151" />
   <defs
@@ -170,6 +170,10 @@
      rx="3"
      height="27"
      width="27" />
+  <path
+     id="rect5540"
+     style="fill:#000000;fill-opacity:0.3;fill-rule:evenodd;stroke:none;stroke-width:0.999997;stroke-dasharray:none;paint-order:markers fill stroke;stop-color:#000000;font-variation-settings:normal;opacity:1;vector-effect:none;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-opacity:1"
+     d="M 5 6 L 5 12 L 7 12 L 7 6 L 5 6 z M 8 6 L 8 12 L 10 12 L 10 6 L 8 6 z M 22 6 L 22 12 L 24 12 L 24 6 L 22 6 z M 25 6 L 25 12 L 27 12 L 27 6 L 25 6 z M 5 13 L 5 19 L 7 19 L 7 13 L 5 13 z M 8 13 L 8 19 L 10 19 L 10 13 L 8 13 z M 11 13 L 11 19 L 13 19 L 13 13 L 11 13 z M 14 13 L 14 19 L 16 19 L 18 19 L 18 13 L 16 13 L 14 13 z M 19 13 L 19 19 L 21 19 L 21 13 L 19 13 z M 22 13 L 22 19 L 24 19 L 24 13 L 22 13 z M 25 13 L 25 19 L 27 19 L 27 13 L 25 13 z M 5 20 L 5 26 L 7 26 L 7 20 L 5 20 z M 8 20 L 8 26 L 10 26 L 10 20 L 8 20 z M 22 20 L 22 26 L 24 26 L 24 20 L 22 20 z M 25 20 L 25 26 L 27 26 L 27 20 L 25 20 z " />
   <path
      style="color:#000000;fill:#000000;fill-opacity:0.15;fill-rule:evenodd;-inkscape-stroke:none;paint-order:markers fill stroke"
      d="m 5,6 v 22 h 7 v -7 h 8 v 7 h 7 V 6 h -7 v 7 H 12 V 6 Z"
